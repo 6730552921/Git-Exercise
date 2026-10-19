@@ -24,12 +24,12 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Suraphum Changlek
+Email: 6730552921@student.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
