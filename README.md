@@ -24,8 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: Suraphum Changlek
-Email: 6730552921@student.chula.ac.th
+Name: Suraphum Changlek / Suphasan Rodphai
+Email: 6730552921@student.chula.ac.th / 6730520821@student.chula.ac.th
 
 🖼️ 2. Picture
 
