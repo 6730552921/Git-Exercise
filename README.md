@@ -33,7 +33,7 @@ git checkout Picture -- Picture/Quote.jpg
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![GitGif](GITGIF.gif)
 
 💬 4. Quote
 
