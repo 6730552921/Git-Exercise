@@ -29,7 +29,7 @@ Email: 6730552921@student.chula.ac.th
 
 🖼️ 2. Picture
 
-git checkout Picture -- Picture/Quote.jpg
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
